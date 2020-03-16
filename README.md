@@ -1,12 +1,11 @@
-<img src="https://melmagazine.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-31-at-5.47.12-PM.png" title="stonks" alt="stonks">
+<img src="https://melmagazine.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-31-at-5.47.12-PM.png" title="stonks" alt="stonks" style="max-width: 200px">
 
 # Stonks
 
-> Hobby data analytics for the stock market
+## Hobby data analytics for the stock market
+### Just to mess around and maybe learn something
 
-> Just to mess around and maybe learn something 
-
----
+<!-- --- -->
 
 <!-- ## License -->
 
