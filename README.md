@@ -2,7 +2,7 @@
 
 # Stonks
 
-## Hobby data analytics for the stock market
+### Hobby data analytics for the stock market
 ### Just to mess around and maybe learn something
 
 <!-- --- -->
